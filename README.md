@@ -65,14 +65,6 @@ The model was trained using both RBF and Linear kernels. PCA was applied before 
 
 ---
 
-### Visualization
-
-(Insert confusion matrix or comparison graph here)
-
-![Kernel Comparison](image_kernel.png)
-
----
-
 ### Explanation of Results
 
 The RBF kernel maps data into a higher-dimensional space and can model complex, non-linear relationships. The linear kernel assumes that the data is linearly separable.
@@ -122,7 +114,7 @@ The testing dataset was kept fixed and completely separate.
 
 ### Accuracy Plot
 
-(Insert accuracy vs training size graph here)
+
 
 ![Accuracy Plot](image.png)
 
