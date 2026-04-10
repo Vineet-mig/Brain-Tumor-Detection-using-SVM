@@ -48,7 +48,7 @@ Dataset source: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classi
 
 ---
 
-## 2. Kernel Comparison: RBF vs Linear SVM
+## Kernel Comparison: RBF vs Linear SVM
 
 ### Methodology
 
@@ -86,7 +86,7 @@ Observations:
 
 ---
 
-## 3. Effect of Training Data Size on SVM
+## Effect of Training Data Size on SVM
 
 ### Methodology
 
